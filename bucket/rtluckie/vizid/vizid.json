@@ -1,19 +1,19 @@
 {
-    "version": "0.2.0",
+    "version": "0.1.1",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/rtluckie/vizid/releases/download/0.2.0/vizid_0.2.0_windows_386.zip",
+            "url": "https://github.com/rtluckie/vizid/releases/download/0.1.1/vizid_0.1.1_windows_386.zip",
             "bin": [
                 "vizid.exe"
             ],
-            "hash": "d306e57f0a2fb4dd8734ff16cd54f8eb38d1cdb18359b6c2c72c23bc47cbac99"
+            "hash": "13c7bf3285b5eb6f9e88893206f6062a17aacc5f757f4df577a0cb4f365857a0"
         },
         "64bit": {
-            "url": "https://github.com/rtluckie/vizid/releases/download/0.2.0/vizid_0.2.0_windows_amd64.zip",
+            "url": "https://github.com/rtluckie/vizid/releases/download/0.1.1/vizid_0.1.1_windows_amd64.zip",
             "bin": [
                 "vizid.exe"
             ],
-            "hash": "61fb782b550ea302aa7719b2310c97f8ec2c98ce1e827a3d2c199bfae93809e1"
+            "hash": "05cec0740f6b41cad8b5fa13f7084f3fd2982bf0e2cf8bb3282f8bd39c7a9a0f"
         }
     },
     "homepage": "https://github.com/rtluckie/gVIZID",
